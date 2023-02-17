@@ -1,6 +1,7 @@
 # TradeMarkia-Task
 <br>
-
+[ Deployed at ] https://trademarkia-task.onrender.com
+<br> <br>
 ## How to run 
 <br>
 
