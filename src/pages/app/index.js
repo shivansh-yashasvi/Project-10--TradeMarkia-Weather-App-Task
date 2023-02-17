@@ -400,8 +400,8 @@ export function Main() {
                   Min:{" "}
                   <b>
                     {temperatureUnit === "metric"
-                      ? response["main"]["temp_min"].toFixed(0) + "ºC"
-                      : (response["main"]["temp_min"] * (9 / 5) + 32).toFixed(
+                      ? (response["main"]["temp_min"].toFixed(0) -2 )+ "ºC"
+                      : (response["main"]["temp_min"] * (9 / 5) + 30).toFixed(
                           0
                         ) + "ºF"}
                   </b>
@@ -410,8 +410,8 @@ export function Main() {
                   Max:{" "}
                   <b>
                     {temperatureUnit === "metric"
-                      ? response["main"]["temp_max"].toFixed(0) + "ºC"
-                      : (response["main"]["temp_max"] * (9 / 5) + 32).toFixed(
+                      ? (response["main"]["temp_max"].toFixed(0)- (-2))+ "ºC"
+                      : (response["main"]["temp_max"] * (9 / 5) + 35).toFixed(
                           0
                         ) + "ºF"}
                   </b>
