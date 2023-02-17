@@ -28,6 +28,16 @@ yarn start
 `
 to start the server. <br><br><br>
 
+## Screenshots
+<p align="center">
+  <img src="src/assets/Screenshot%202023-02-17%20at%2010.53.31%20AM.png" width="350" title="load page">
+                     
+  <img src="src/assets/Screenshot%202023-02-17%20at%2010.53.42%20AM.png" width="350" alt="weather data page">
+</p>
+
+
+<br><br>
+
 ## Functionalities
 The web application has the following major functionalities implemented: <br>
 1. The `current Weather Data` of the cities are displayed in a user-friendly and appealing manner.
