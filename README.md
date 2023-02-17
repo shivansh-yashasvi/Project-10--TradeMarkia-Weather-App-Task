@@ -1,6 +1,8 @@
 # TradeMarkia-Task
 <br>
-[ Deployed at ] https://trademarkia-interns.onrender.com.  `updated readme since deployment server broke`
+[ Deployed at ] https://trademarkia-interns.onrender.com.  
+`please try reloading it few times for it to load, render server issues are going on`
+
 <br> <br>
 
 ## How to run 
